@@ -101,8 +101,19 @@ Throughout the analysis, key decisions were made to ensure accuracy and integrit
 3. **Consult the Final Report**: Review the detailed analysis, findings, and recommendations to gain insights into STEM wage trends.
 
 ### Project Resources
-- **Final Report (PDF)**: Detailed analysis of wage trends, regional disparities, and strategic recommendations for addressing STEM labor market challenges.
-- **Alteryx Workflow**: Annotated workflow demonstrating the methodology used for data preparation, blending, and predictive modeling.
+
+- [**Final Report (PDF)**](https://github.com/magarSushant/STEM-Wage-Analytics-US/blob/main/US%20STEM%20Wage%20Analytics%20Report.pdf): Detailed analysis of wage trends, regional disparities, and strategic recommendations for addressing STEM labor market challenges.
+
+- [**Alteryx Workflow (YXMD)**](https://github.com/magarSushant/STEM-Wage-Analytics-US/blob/main/WAGE_ANALYTICS.yxmd): Annotated workflow demonstrating the methodology used for data preparation, blending, and predictive modeling.
+
+- [**Wage Datasets**](https://github.com/magarSushant/STEM-Wage-Analytics-US/tree/main/Wage%20Datasets): Raw and processed data used for wage analysis, sourced from the Bureau of Labor Statistics.
+
+- **Data Source**:  
+   The dataset used in this project is sourced from the Bureau of Labor Statistics (BLS) Occupational Employment and Wage Statistics (OEWS) data tables. The data can be accessed through the following link:  
+   [**Bureau of Labor Statistics - Occupational Employment and Wage Statistics Data Tables**](https://www.bls.gov/oes/tables.htm).  
+   Specifically, the **"All Data"** section was used, which includes detailed occupational wage data for various geographic and industrial areas across the United States. The data is available in multiple formats including XLS and TXT files.
+
+
   
 ### Findings and Strategic Recommendations
 The analysis consistently confirmed that STEM jobs offer a wage premium over Non-STEM jobs, driven by factors such as educational attainment and regional economic conditions. Policy recommendations include:
